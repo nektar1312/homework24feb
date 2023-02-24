@@ -1,0 +1,9 @@
+p.text--bold{
+    color: aqua;
+}
+div .child{
+color: blue;
+}
+a[href="#blog"] {
+    color: green; 
+}
